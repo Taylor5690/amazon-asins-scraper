@@ -1,0 +1,10 @@
+{
+  "base_url": "https://www.amazon.com",
+  "marketplace": "US",
+  "concurrency": 5,
+  "timeout_seconds": 20,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0 Safari/537.36",
+  "output_formats": ["json", "csv", "excel", "html"],
+  "output_dir": "data",
+  "input_file": "data/inputs.sample.txt"
+}
