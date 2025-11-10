@@ -1,0 +1,3 @@
+# Example ASINs (one per line)
+B07GBZ4Q68
+B08N5WRWNW
